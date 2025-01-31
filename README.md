@@ -1,4 +1,4 @@
-
+![](https://github.com/krushil4076/krushil4076/blob/main/12.jpg)
 <h1 align="center">Hi 👋, I'm Krushil Sojitra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
